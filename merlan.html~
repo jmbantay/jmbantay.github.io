@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Profile</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h3><a href="index.html">HOME</a></h3>
+	<img src="merlan.jpg" alt="picture" style="height:250px;width:200px;">
+	<h2>Name: Jana Ezra V. Merlan</h2>
+	<h2>Nickname: Jana</h2>
+	<h2>Student Number: 2013-22119</h2>
+	<h2>Provincial Address: 9026 Hinahon Drive, Sapa, Naic, Cavite</h2>
+	<h2>College Address: Y2k Apt. Mt.Data St., Batong Malake, Los Banos, Laguna</h2>
+	<h2>Email Address: jdmerlan@up.edu.ph</h2>
+	<h2>Contact Number: 09972569585</h2>
+	<h2>Person to contact in case of emergency: Philina Lagman</h2>
+	<h2>Contact Number: 09175018737</h2>
+</body>
+</html>
